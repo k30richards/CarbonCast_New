@@ -25,7 +25,7 @@
 
     "SECOND_TIER_CNN_LSTM_MODEL_HYPERPARAMS": {
         "EPOCH": 200,
-        "BATCH_SIZE": [10],
+        "BATCH_SIZE": [32],
         "ACTIVATION_FUNC": "relu",
         "LOSS_FUNC": "mse",
         "LEARNING_RATE": 0.01,
