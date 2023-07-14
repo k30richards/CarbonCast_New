@@ -24,7 +24,7 @@
     "WRITE_CI_FORECASTS_TO_FILE": "False",
 
     "SECOND_TIER_CNN_LSTM_MODEL_HYPERPARAMS": {
-        "EPOCH": 100,
+        "EPOCH": 200,
         "BATCH_SIZE": [10],
         "ACTIVATION_FUNC": "relu",
         "LOSS_FUNC": "mse",
