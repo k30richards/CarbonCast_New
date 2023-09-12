@@ -1,12 +1,14 @@
 # CarbonCast
 CarbonCast: Multi-Day Forecasting of Grid Carbon Intensity
-([PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2022/09/buildsys2022-final282.pdf)).
+([PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2022/09/buildsys2022-final282.pdf)). An extended version of our paper appeared in ACM SIGEnergy Energy Informatics Review, and can be found [here](https://energy.acm.org/eir/multi-day-forecasting-of-electric-grid-carbon-intensity-using-machine-learning/).
 <br>
-CarbonCast provides average carbon intensity forecasts up to 96 hours. This is an extension of [DACF](https://github.com/carbonfirst/DACF), which provides only day-ahead carbon intensity forecasts.
+CarbonCast provides average carbon intensity forecasts for up to 96 hours. This is an extension of [DACF](https://github.com/carbonfirst/DACF), which provides only day-ahead carbon intensity forecasts.
 
 Version: 2.1 <br>
 Authors: Diptyaroop Maji, Prashant Shenoy, Ramesh K Sitaraman <br>
 Affiliation: University of Massachusetts, Amherst
+
+<b>CarbonCast v3.0, which can provide forecasts in real-time, is now in the testing phase and can be found [here](https://github.com/carbonfirst/CarbonCast/tree/v3.0_real_time_service). Please feel free to use and report any issues. We are working to release it in the main branch soon.</b>
 
 
 <!-- ## CarbonCast Architecture
